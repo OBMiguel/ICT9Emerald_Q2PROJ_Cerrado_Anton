@@ -1,0 +1,101 @@
+body {
+    background-image: url(R.jpeg); background-repeat: no repeat;
+    background-size: 1360px;
+
+
+}
+#gallery {
+
+        
+	color: white;
+	padding: 1px;
+	width: 100%;
+	font-style: oblique;
+	text-decoration: underline ;
+     border: solid;
+     border-color: white ;
+     display: inline-block;
+      border-radius:0px;
+
+
+
+}
+#text{
+
+   text-align: center;
+   background-color: orange;
+   color: black;
+   padding: 10px;
+   width: 50%;
+   margin: auto;
+   font-weight: bold;
+    
+
+#boracay{
+border: solid;
+     border-color: white ;
+
+
+}
+}
+#bgc 
+{
+  margin: center; aut
+
+}
+
+#descrip{
+
+   text-align: left;
+   background-color: orange;
+   color: black;
+   padding: 10px;
+   width: 30%;
+   margin: left;
+   font-weight: bold;
+}
+#descrip2{
+text-align: center;
+   background-color: orange;
+   color: black;
+   padding: 10px;
+   width: 30%;
+   height: 0%;
+   margin: center;
+   font-weight: bold;
+position: relative;
+   top: -210px;
+   right:-420px;
+
+
+}
+
+#palawan{
+   position: relative;
+   top: -280px;
+   right: 60px;
+
+}
+#descrip3{
+
+text-align: center;
+   background-color: orange;
+   color: black;
+   padding: 10px;
+   width: 80%;
+   margin: center;
+   font-weight: bold;
+position: relative;
+   top: -180px;
+   right: -450px
+
+
+}
+
+
+
+
+
+
+
+
